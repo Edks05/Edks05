@@ -1,4 +1,5 @@
-### Hi there 👋
+### hello everything is fine?👋
+here is some information about me
 
 <!--
 **Edks05/Edks05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- tabela de skills -->
+<div>
+ <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Edks05&show_icons=true&theme=radical&layout=compact" />  
+</div>
